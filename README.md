@@ -25,8 +25,9 @@
 
 🚀 [Watch my LinkedIn project demo on fraud detection using ML]([https://www.linkedin.com/posts/p-chandra-sekhar_machinelearning-frauddetection-datascience-activity-7263921605938978816-ywCY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4LuxcBNMlP9k5srdrBNos7xCQKSEA1aYo])
 
-> A quick walkthrough of my Python-based spam detection
+> A quick walkthrough of my Python-based fraud detection
 ## ✍️ SMS Spam detection using ML 
 
 🚀[Watch my LinkedIn project demo on spam detection using ML]([https://www.linkedin.com/posts/p-chandra-sekhar_machinelearning-spamdetection-naivebayes-activity-7265749387157360642-uMRg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4LuxcBNMlP9k5srdrBNos7xCQKSEA1aYo])
 
+> A quick walkthrough of My ML based spam detection
