@@ -21,13 +21,12 @@
 
 ![snake gif](https://github.com/lucifer-cs/lucifer-cs/blob/output/github-snake-dark.svg)
 
-## 🎥  Tic Tac Toe AI
+## 🎥  Fraudulent Credit Detection Using ML
 
-🚀 [Watch my LinkedIn project demo on AI Tic Tac Toe]([https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
+🚀 [Watch my LinkedIn project demo on fraud detection using ML]([https://www.linkedin.com/posts/p-chandra-sekhar_machinelearning-frauddetection-datascience-activity-7263921605938978816-ywCY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4LuxcBNMlP9k5srdrBNos7xCQKSEA1aYo])
 
-> A quick walkthrough of my Python-based voice assistant project – using speech recognition and text-to-speech!
-## ✍️ Handwritten Text Recognition Demo
+> A quick walkthrough of my Python-based spam detection
+## ✍️ SMS Spam detection using ML 
 
-🚀[Watch my LinkedIn project demo on Handwriting to text conversion AI]([https://www.linkedin.com/posts/nsatvika_ocr-imageprocessing-tesseract-activity-7265360910892834816-di_q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
+🚀[Watch my LinkedIn project demo on spam detection using ML]([https://www.linkedin.com/posts/p-chandra-sekhar_machinelearning-spamdetection-naivebayes-activity-7265749387157360642-uMRg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4LuxcBNMlP9k5srdrBNos7xCQKSEA1aYo])
 
-> A Python project that converts handwritten text to digital format using OCR with PyTesseract.
