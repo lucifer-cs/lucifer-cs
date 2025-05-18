@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey there! I'm Chandra Sekhar<br>💻 Software Engineer in the making | AI & Backend Dev Enthusiast<br>🧠 Building smart systems: Voice Assistants, Job Match Apps, Fraud Detectors<br>⚙️ Skilled in: Python, C++, Java, React Native, Firebase, AWS<br>🌐 Passionate about Full-Stack Dev, Distributed Systems & Tech Leadership<br>🚀 Always learning, solving, and creating impactful digital experiences
+ Hey there! I'm Chandra Sekhar<br>💻 Software Engineer in the making | AI & Backend Dev Enthusiast<br>🧠 Building smart systems: Voice Assistants, Job Match Apps, Fraud Detectors<br>⚙️ Skilled in: Python,Java, React Native, Firebase, AWS<br>🌐 Passionate about Full-Stack Dev, Distributed Systems & Tech Leadership<br>🚀 Always learning, solving, and creating impactful digital experiences
 
 
 ## 🌐 Socials:
