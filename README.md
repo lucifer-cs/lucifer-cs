@@ -21,4 +21,13 @@
 
 ![snake gif](https://github.com/lucifer-cs/lucifer-cs/blob/output/github-snake-dark.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎥  Tic Tac Toe AI
+
+🚀 [Watch my LinkedIn project demo on AI Tic Tac Toe]([https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
+
+> A quick walkthrough of my Python-based voice assistant project – using speech recognition and text-to-speech!
+## ✍️ Handwritten Text Recognition Demo
+
+🚀[Watch my LinkedIn project demo on Handwriting to text conversion AI]([https://www.linkedin.com/posts/nsatvika_ocr-imageprocessing-tesseract-activity-7265360910892834816-di_q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
+
+> A Python project that converts handwritten text to digital format using OCR with PyTesseract.
